@@ -7,7 +7,11 @@ Physician segmentation project conducted on a dataset provided as coursework for
 [Report can be found here.](https://github.com/QueekCode/Physician-Segmentation/blob/main/BTC1882%20Segmentation%20Report.pdf)
 
 <br>
+
 **Contributors:**
+
 Kevin Schubert
+
 Andrew Quirke
+
 Vivian Pan
